@@ -1,0 +1,4 @@
+URL=http://newtours.demoaut.com/mercuryregister.php
+BrowserName=Firefox
+IMPLICITLYWAIT=10
+PAGELOADTIMEOUT=10
